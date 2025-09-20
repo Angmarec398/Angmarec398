@@ -11,9 +11,6 @@
 - **Frameworks**: Django, Flask, FastAPI  
 - **Database**: PostgreSQL,   
 - **Other**: Docker, GitHub Actions, Linux, SQLAlchemy
-
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angmarec398)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📫 Contact
