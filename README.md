@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, my name is Algis  
 
-<!--
-**Angmarec398/Angmarec398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend-developer** since 2020  
+⚡ Main progrming language — **Python** | Secondary **JavaScript**  
+🚀 I specialize in creating web applications, APIs, and services using modern tools. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My stacks
+- **Language**: Python, JavaScript  
+- **Frameworks**: Django, Flask, FastAPI  
+- **Database**: PostgreSQL,   
+- **Other**: Docker, GitHub Actions, Linux, SQLAlchemy
+
+---
+
+## 📊 GitHub statistic
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angmarec398&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angmarec398&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Contact
+- Telegram: [@algis398507](https://t.me/algis398507)  
+
+---
+✨ *I am open to new projects and cooperation.*  
